@@ -1,0 +1,37 @@
+@import "../../assets/global";
+
+
+.Error_page {
+
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+
+    background-color: $secondary;
+    position: relative;
+    text-align: center;
+    cursor: default;
+
+}
+
+
+.Lable_error {
+    font-size: 600px;
+    font-weight: 700;
+    color: rgba(#fff, .5);
+
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+}
+
+.Logo_error {
+
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -55%);
+    height: 500px;
+
+}

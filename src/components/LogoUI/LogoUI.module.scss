@@ -1,0 +1,24 @@
+.Logo_img {
+
+    transform: rotatez(-10deg) translateX(-65%);
+    z-index: 10;
+
+    position: absolute;
+    left: 35%;
+    top: 0;
+
+}
+
+.shadow {
+    position: absolute;
+    bottom: -15px;
+    left: 35%;
+    transform: translateX(-65%);
+
+    width: 150px;
+    height: 9px;
+    border-radius: 90%;
+    background: radial-gradient(#212121 0%, #C4C4C4 32.4%);
+    opacity: .1;
+
+}

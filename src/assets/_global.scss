@@ -1,0 +1,28 @@
+//
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+
+//
+
+$primary: #1F2A63;
+$secondary: #17002F;
+$text_color: #F6F7F9;
+$primary_btn: #FFC107;
+$secondary_btn: #73D677;
+$card_color: #F0F0F0;
+
+//
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Karla";
+
+
+}
+
+body {
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+
+    overflow-x: hidden;
+}
